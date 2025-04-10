@@ -49,7 +49,6 @@ public class carJSON {
         System.out.println(json.toString(2));
     }
 }
-
 /*
 Enter the brand:
  volkswagen
